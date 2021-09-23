@@ -50,7 +50,7 @@
 ## Installation and Set-up
 To view the app, open the live site link provided below on the README.
 Here is a run through of how to set up the application:
-* **Step 1** : Clone this repository using **`git clone https://github.com/tailorv/pitches.git`**, or downloading a ZIP file of the code.
+* **Step 1** : Clone this repository using **`git clone https://github.com/tailorv/pitchappl.git`**, or downloading a ZIP file of the code.
 * **Step 2** : The repository, if downloaded as a .zip file will need to be extracted to preferred location and opened
 * **Step 3** : Go to the project root directory and install the virtualenv library using pip an afterwards create a virtual environment. Run the following commands respectively:
     * **`pip install virtualenv`**
