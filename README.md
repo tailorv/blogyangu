@@ -4,15 +4,16 @@
 ## Author - [ MAXWELL Munene]
 ------------------------------------------------------------------------------------------------------
 ## User Story
-# Users can :
-* See the pitches other people have posted.
-* Vote on the pitch they liked and give it a downvote or upvote.
-* Be signed in for me to leave a comment
-* Receive a welcoming email once I sign up.
-* View the pitches I have created in my profile page.
-* Comment on the different pitches and leave feedback.
-* Submit a pitch in any category.
-* View the different categories.
+Users can:
+* view the blog posts on the site
+* comment on blog posts
+* view the most recent posts
+* an email alert when a new post is made by joining a subscription.
+* see random quotes on the site
+* sign in to the blog.
+* create a blog from the application.
+* delete comments that I find insulting or degrading.
+* update or delete blogs I have created.
 
 ![alt text](screenshots/home.png)
 ![alt text](screenshots/post.png)
@@ -53,7 +54,7 @@ Here is a run through of how to set up the application:
 * **Step 2** : The repository, if downloaded as a .zip file will need to be extracted to preferred location and opened
 * **Step 3** : Go to the project root directory and install the virtualenv library using pip an afterwards create a virtual environment. Run the following commands respectively:
     * **`pip install virtualenv`**
-    * **`virtualenv pitchappl`**
+    * **`virtualenv blog`**
     * **`source venv/bin/activate`**
         * Note that you can exit the virtual environment by running the command **`deactivate`**
 * **Step 4** : Go to config.py and set the SQLALCHEMY_DATABASE_URI to own, you may use Postgres or any other SQL databse client.
@@ -65,7 +66,7 @@ Here is a run through of how to set up the application:
 
 ## Support and contact details
 You can provide feedback or raise any issues/ bugs through the following means:
-* muthomijr@gmail.com
+* maxwellmuthomijr@gmail.com
 
 ## License
 {MIT License
