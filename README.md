@@ -1,7 +1,6 @@
 
 ####  BLOGYANGU
-* An application that allows users to submit a one minute pitch and other viewers will vote on them and leave comments to give their feedback on them.
-
+* a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, add a feature that displays random quotes to inspire your users. 
 ## Author - [ MAXWELL Munene]
 ------------------------------------------------------------------------------------------------------
 ## User Story
@@ -15,9 +14,9 @@
 * Submit a pitch in any category.
 * View the different categories.
 
-![alt text](screenshots/index_page_quote.png)
-
-
+![alt text](screenshots/home.png)
+![alt text](screenshots/post.png)
+![alt text](screenshots/profile.png)
 
 ## Live link 
 
